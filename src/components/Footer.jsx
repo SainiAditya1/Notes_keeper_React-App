@@ -5,6 +5,7 @@ function Footer() {
   return (
     <footer>
       <p>Copyright ⓒ {currentYear}</p>
+      <p>Made with ❤️ by ADITYA SAINI</p>
     </footer>
   );
 }
